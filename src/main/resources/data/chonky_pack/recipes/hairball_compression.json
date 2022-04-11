@@ -1,0 +1,42 @@
+{
+  "group": "chonky_pack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "chonky_pack:hair_ball"
+    },
+    "1": {
+      "item": "chonky_pack:hair_ball"
+    },
+    "2": {
+      "item": "chonky_pack:hair_ball"
+    },
+    "3": {
+      "item": "chonky_pack:hair_ball"
+    },
+    "4": {
+      "item": "chonky_pack:hair_ball"
+    },
+    "5": {
+      "item": "chonky_pack:hair_ball"
+    },
+    "6": {
+      "item": "chonky_pack:hair_ball"
+    },
+    "7": {
+      "item": "chonky_pack:hair_ball"
+    },
+    "8": {
+      "item": "chonky_pack:hair_ball"
+    }
+  },
+  "result": {
+    "item": "chonky_pack:kittyite_ingot",
+    "count": 1
+  }
+}

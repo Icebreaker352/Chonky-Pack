@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chonky_pack:kittyite_ingot"
+    }
+  },
+  "result": {
+    "item": "chonky_pack:kitttyite_block",
+    "count": 1
+  }
+}

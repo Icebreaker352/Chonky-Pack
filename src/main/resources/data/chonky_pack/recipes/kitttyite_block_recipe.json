@@ -1,0 +1,13 @@
+{
+  "group": "chonky_pack",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chonky_pack:kitttyite_block"
+    }
+  ],
+  "result": {
+    "item": "chonky_pack:kittyite_ingot",
+    "count": 9
+  }
+}

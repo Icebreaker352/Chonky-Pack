@@ -1,0 +1,24 @@
+{
+  "group": "chonky_pack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "chonky_pack:kittyite_ingot"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "chonky_pack:kittyite_shovel",
+    "count": 1
+  }
+}

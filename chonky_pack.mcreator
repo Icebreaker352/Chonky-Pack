@@ -1,0 +1,219 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HairBall",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hair_ball",
+      "path": "~/Kitty"
+    },
+    {
+      "name": "HairBallSpawn",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hair_ball_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Kitty"
+    },
+    {
+      "name": "KittyiteIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_ingot",
+      "path": "~/Kitty/Kittyite"
+    },
+    {
+      "name": "HairballCompression",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hairball_compression",
+      "path": "~/Kitty"
+    },
+    {
+      "name": "KittyitePickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_pickaxe",
+      "path": "~/Kitty/Kittyite"
+    },
+    {
+      "name": "KittyiteAxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_axe",
+      "path": "~/Kitty/Kittyite"
+    },
+    {
+      "name": "KittyiteSword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_sword",
+      "path": "~/Kitty/Kittyite"
+    },
+    {
+      "name": "KittyiteShovel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_shovel",
+      "path": "~/Kitty/Kittyite"
+    },
+    {
+      "name": "KittyiteHoe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_hoe",
+      "path": "~/Kitty/Kittyite"
+    },
+    {
+      "name": "KittyitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_pickaxe_recipe",
+      "path": "~/Kitty/Kittyite/recipes"
+    },
+    {
+      "name": "KittyiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_axe_recipe",
+      "path": "~/Kitty/Kittyite/recipes"
+    },
+    {
+      "name": "KittyiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_sword_recipe",
+      "path": "~/Kitty/Kittyite/recipes"
+    },
+    {
+      "name": "KittyiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_shovel_recipe",
+      "path": "~/Kitty/Kittyite/recipes"
+    },
+    {
+      "name": "KittyiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kittyite_hoe_recipe",
+      "path": "~/Kitty/Kittyite/recipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.chonky_pack.kittyite_ingot": "Kittyite Ingot",
+      "item.chonky_pack.kittyite_hoe": "Kittyite Hoe",
+      "item.chonky_pack.kittyite_axe": "Kittyite Axe",
+      "item.chonky_pack.kittyite_pickaxe": "Kittyite Pickaxe",
+      "item.chonky_pack.kittyite_sword": "Kittyite Sword",
+      "item.chonky_pack.hair_ball": "Hair Ball",
+      "item.chonky_pack.kittyite_shovel": "Kittyite Shovel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Kitty",
+        "children": [
+          {
+            "name": "Kittyite",
+            "children": [
+              {
+                "name": "recipes",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "chonky_pack",
+    "modName": "Chonky Pack",
+    "version": "1.0.0",
+    "author": "prestonoler, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.chonkypack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100116710
+}
